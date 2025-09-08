@@ -1,0 +1,7 @@
+id=Quest3-NCM
+name=Setup NCM for Quest3
+version=v1.0
+versionCode=1
+author=Asty
+description=auto sets up ncm for quest under usb0
+#updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
